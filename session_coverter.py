@@ -11,7 +11,7 @@ class SessionMaker:
     async def craetor(self):
         async with Client(f"{self.number}", api_id=self.app_id, api_hash=self.app_hash, phone_number=self.number) as app:
             await app.send_message("me", "Sample message..")
-            print("Session has been crated!")
+            print("Session has been created!")
     
     def start(self):
         asyncio.run(self.craetor())
