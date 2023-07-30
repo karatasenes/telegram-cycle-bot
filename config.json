@@ -1,0 +1,23 @@
+{
+    "app_id": "14384400",
+    "app_hash": "3c0f0e18a32e4de6aa5746439bdef7f5",
+    "admin_session": ["905415520697.session"],
+    "sessionsFolder": "sessions",
+    "messagesFile": "messages/messages.json",
+    "messageReplyMin": 10,
+    "messageReplyMax": 20,
+    "dialogMesajAraligi": [10,20],
+    "saatler": {
+        "saat1": {
+            "acilis":10,
+            "kapanis": 23
+        }
+    },
+    "multiThread": false,
+    "threadCount": 2,
+    "threadTimeRange": [10, 60],
+    "sameNumberTime": 200,
+    "sameMessageTime": 300,
+    "waitForNext": 20,
+    "convertMode": false
+}

@@ -1,0 +1,57 @@
+{
+    "messages": [
+        {
+            "channel_id":"testingTgGrup",
+            "messages":[
+                {
+                    "messages":[
+                        {
+                            "message": "Arkadaşlar grup ile alakalı tüm linklerin bulunduğu postu nasıl çağırıyoruz.",
+                            "reply": "#link"
+                        },
+                        {
+                            "message":"Çok teşekkür ederimm",
+                            "reply":"rica ederim :)"
+                        }
+                    ]
+                },
+                {
+                    "messages":[
+                        {
+                            "message":"Arkadaşlar Whitepaper'a nereden ulaşabilirim.",
+                            "reply":"#link ile gelmesi lazım"
+                        },
+                        {
+                            "message":"#link",
+                            "reply":":)"
+                        },
+                        {
+                            "message": "Versiyon 1.0.1 ne oluyor",
+                            "reply":"Ben de bilmiyorum admin yazar şimdi"
+                        },
+                        {
+                            "message":"Teşekkür ederimm",
+                            "reply": "ne demekk"
+                        }
+                    ]
+                },
+                {
+                    "messages":[
+                        {
+                            "message": "Elon un desteği ne tam olarak",
+                            "reply": "desteği yok ama ilerde gelebilir"
+                        },
+                        {
+                            "message": "Nasıl yanii",
+                            "reply": "Optimus Elon'un robotunun adı onunla alakalı bir paylaşım yaptığında bizim reklamımızı yapmış oluyor."
+                        },
+                        {
+                            "message": "Vayy çok mantıklıı",
+                            "reply": "/optimus Elon"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
