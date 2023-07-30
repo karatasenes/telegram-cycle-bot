@@ -1,7 +1,7 @@
 {
     "app_id": "*",
     "app_hash": "*",
-    "admin_session": ["905415520697.session"],
+    "admin_session": ["905000000000.session"],
     "sessionsFolder": "sessions",
     "messagesFile": "messages/messages.json",
     "messageReplyMin": 10,
