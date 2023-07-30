@@ -27,4 +27,4 @@ class tgSendMessage:
         asyncio.run(self.sendMessage())
 
 #Usage:
-# tgSendMessage(app_id="14384400", app_hash="3c0f0e18a32e4de6aa5746439bdef7f5", session="sessions/905415520697", message="asdas", channel="testingTgGrup", uid="1231").send()
+# tgSendMessage(app_id="*", app_hash="*", session="sessions/*", message="test", channel="*", uid="1231").send()
